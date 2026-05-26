@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Net
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 2525541955
+    locked: 0
+  - name: Ground
+    uniqueID: 2728802257
+    locked: 0
+  - name: Ground1
+    uniqueID: 2461784383
+    locked: 0
+  - name: Ground2
+    uniqueID: 2736426143
+    locked: 0
+  - name: Tree
+    uniqueID: 3887246505
+    locked: 0
+  - name: Build
+    uniqueID: 2372895003
+    locked: 0
+  - name: UI
+    uniqueID: 393004861
+    locked: 0
+  - name: Character
+    uniqueID: 1910239801
+    locked: 0
+  m_RenderingLayers:
+  - Default
